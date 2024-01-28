@@ -44,3 +44,6 @@ li{
 #movie-list{
     padding: 0;
 }
+.movie-display > h1{
+    color: orangered;
+}
